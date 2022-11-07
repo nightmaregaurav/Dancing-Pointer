@@ -13,7 +13,6 @@ import java.awt.Toolkit;
 public class DancingPointer {
     /**
      * @param args the command line arguments
-     * @throws java.awt.AWTException
      */
     public static void main(String[] args) throws AWTException {
         while(true){
